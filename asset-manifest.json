@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gabriel-to.github.io/static/css/main.ff1fec1a.chunk.css",
+    "main.js": "/gabriel-to.github.io/static/js/main.b4da8588.chunk.js",
+    "main.js.map": "/gabriel-to.github.io/static/js/main.b4da8588.chunk.js.map",
+    "runtime-main.js": "/gabriel-to.github.io/static/js/runtime-main.0d089f73.js",
+    "runtime-main.js.map": "/gabriel-to.github.io/static/js/runtime-main.0d089f73.js.map",
+    "static/js/2.cdc7a19a.chunk.js": "/gabriel-to.github.io/static/js/2.cdc7a19a.chunk.js",
+    "static/js/2.cdc7a19a.chunk.js.map": "/gabriel-to.github.io/static/js/2.cdc7a19a.chunk.js.map",
+    "f7b212c640867da3865cb4de4238a124.js": "/gabriel-to.github.io/f7b212c640867da3865cb4de4238a124.js",
+    "f7b212c640867da3865cb4de4238a124.js.LICENSE.txt": "/gabriel-to.github.io/f7b212c640867da3865cb4de4238a124.js.LICENSE.txt",
+    "index.html": "/gabriel-to.github.io/index.html",
+    "static/css/main.ff1fec1a.chunk.css.map": "/gabriel-to.github.io/static/css/main.ff1fec1a.chunk.css.map",
+    "static/js/2.cdc7a19a.chunk.js.LICENSE.txt": "/gabriel-to.github.io/static/js/2.cdc7a19a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d089f73.js",
+    "static/js/2.cdc7a19a.chunk.js",
+    "static/css/main.ff1fec1a.chunk.css",
+    "static/js/main.b4da8588.chunk.js"
+  ]
+}
