@@ -17,19 +17,16 @@
 }
 
 .projects {
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: green;
-  font-size: 100px;
+  color: black;
+  font-size: 10px;
+  background-color: #CACACA;
 }
 
 .resume {
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: grey;
-  font-size: 100px;
+  font-size: 10px;
 }
 
 p { 
@@ -40,4 +37,28 @@ html, body {
   margin: 0;
   height: 100%;  
   background-color: #CACACA;
+}
+
+img {
+  max-width: 100%;
+  height:auto;
+  padding-bottom: 10px;
+}
+
+.tft-roller-container {
+  width: 1200px;
+  height: 1200px;
+  height: auto;
+  float: left;
+  margin: 3px;
+  padding: 3px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#project-text {
+  margin-left: 25px;
+  margin-right: 25px;
 }
